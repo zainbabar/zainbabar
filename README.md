@@ -30,8 +30,11 @@ i'm interested in ml, deep learning, and ai, from the math underneath to the sys
 ![Chroma](https://img.shields.io/badge/Chroma-161b22?style=flat-square&logo=chroma&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white)
 
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white)
+
 **tools**
 
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=white)
