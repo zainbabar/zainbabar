@@ -17,20 +17,7 @@ i'm interested in ml, deep learning, and ai, from the math underneath to the sys
 
 **ml & data**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=white)
-![torchvision](https://img.shields.io/badge/torchvision-161b22?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-161b22?style=flat-square&logo=huggingface&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-161b22?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-161b22?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-161b22?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logo=langgraph&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-161b22?style=flat-square&logo=chroma&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=white) ![torchvision](https://img.shields.io/badge/torchvision-161b22?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-161b22?style=flat-square&logo=huggingface&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-161b22?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit-learn-161b22?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-161b22?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logo=langgraph&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=white) ![Chroma](https://img.shields.io/badge/Chroma-161b22?style=flat-square&logo=chroma&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white)
 
 **tools**
 
