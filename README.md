@@ -32,20 +32,24 @@ i'm interested in ml, deep learning, and ai, from the math underneath to the sys
 
 **[gpt-2 inference engine](https://github.com/zainbabar/gpt2-inference-engine)**
 
-gpt-2 small from scratch in pytorch, verified against hugging face. kv caching for faster generation.
+gpt-2 small (124m) from scratch in pytorch, checked against hugging face. kv caching reached 175 tokens/s on an nvidia gb10, a 10.5× speedup for a 992-token prompt + 32 generated tokens.
 
 **[autograd engine](https://github.com/zainbabar/autograd-engine)**
 
-reverse-mode autodiff and a neural network in c++20, verified against numerical gradients.
+a scalar autograd engine and neural net library from scratch in c++20. numerical gradient checks, xor training, and 93.8% mnist test accuracy without ml libraries.
 
 **[lecture rag](https://github.com/zainbabar/lecture-rag)**
 
-dense + bm25 hybrid retrieval, a langgraph evidence check, and recall@k evaluation.
+a study assistant over my linear algebra notes, with cited answers and local models. reranking raised test recall@1 from 80.9% to 92.6%, measured on labeled evidence in a frozen 40-question set.
 
 **[pathshift](https://github.com/zainbabar/pathshift)**
 
-a cnn from scratch in pytorch, with robustness evaluation and label-free distribution shift detection.
+a cnn trained on pathology images, with corruption tests and label-free shift detection. mmd caught the clinical-center shift in all 100 trials at 200 images per batch, with a 5% false-alarm rate on clean batches.
 
 ## contributions
 
 [![my contribution skyline](assets/skyline.svg)](https://github.com/zainbabar)
+
+---
+
+[linkedin](https://www.linkedin.com/in/zain-babar-ba94571aa/) · [email](mailto:z4babar@uwaterloo.ca) · [x](https://x.com/zainbabarrr)
