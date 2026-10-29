@@ -26,7 +26,6 @@ i'm interested in ml, deep learning, and ai, from the math underneath to the sys
 ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-161b22?style=flat-square&logo=cmake&logoColor=white)
-
 ![pytest](https://img.shields.io/badge/pytest-161b22?style=flat-square&logo=pytest&logoColor=white)
 
 ## selected projects
