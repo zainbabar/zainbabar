@@ -8,12 +8,28 @@ i'm interested in ml, deep learning, and ai, from the math underneath to the sys
 
 ## stack
 
+**languages**
+
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=duckdb&logoColor=white)
+
+**ml & data**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-161b22?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-161b22?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-161b22?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logo=langgraph&logoColor=white)
+
+**tools**
+
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-161b22?style=flat-square&logo=cmake&logoColor=white)
 
 ## selected projects
 
@@ -32,3 +48,7 @@ dense + bm25 hybrid retrieval, a langgraph evidence check, and recall@k evaluati
 **[pathshift](https://github.com/zainbabar/pathshift)**
 
 a cnn from scratch in pytorch, with robustness evaluation and label-free distribution shift detection.
+
+## contributions
+
+[![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=zainbabar&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true&area_color=30363d&hide_border=true&custom_title=contributions)](https://github.com/zainbabar)
