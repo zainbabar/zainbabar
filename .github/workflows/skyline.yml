@@ -1,0 +1,42 @@
+name: skyline
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-go@v6
+        with:
+          go-version: stable
+      - name: Draw monochrome skyline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: go run github.com/pinkpixel-dev/skyline@3542b1abda4e0ba444cc896114c2ef9aabe2f17b -theme mono -svg skyline.svg "${{ github.repository_owner }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: skyline
+          path: skyline.svg
+  publish:
+    needs: draw
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: skyline
+          path: assets
+      - name: Update skyline
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/skyline.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update contribution skyline'
+            git push
+          fi

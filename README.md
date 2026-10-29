@@ -51,4 +51,4 @@ a cnn from scratch in pytorch, with robustness evaluation and label-free distrib
 
 ## contributions
 
-[![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=zainbabar&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true&area_color=30363d&hide_border=true&custom_title=contributions)](https://github.com/zainbabar)
+[![my contribution skyline](assets/skyline.svg)](https://github.com/zainbabar)
